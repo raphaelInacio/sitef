@@ -1,0 +1,3104 @@
+25/10/2016 - 16:07:23: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:07:24: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:22:58: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:22:59: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:26:04: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:26:05: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:26:10: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:26:10: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:26:51: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:26:51: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:26:55: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:26:55: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:27:44: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:27:45: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:27:49: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:27:49: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:27:52: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [49655024]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [49655200]
+    ContinuaNavegacao: [49655624]
+
+25/10/2016 - 16:27:52: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:32:11: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:32:11: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:32:14: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:32:14: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:32:17: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [35302640]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [35302816]
+    ContinuaNavegacao: [35303240]
+
+25/10/2016 - 16:32:17: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:33:46: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:33:47: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:33:49: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:33:49: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:33:52: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [49474832]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [49475008]
+    ContinuaNavegacao: [49475432]
+
+25/10/2016 - 16:33:52: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:34:20: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49475008]
+    ContinuaNavegacao: [49475560]
+
+25/10/2016 - 16:34:22: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:35:26: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:35:26: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:35:29: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:35:29: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:35:54: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:35:55: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:35:57: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:35:57: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:36:07: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [41688320]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [41688496]
+    ContinuaNavegacao: [41688920]
+
+25/10/2016 - 16:36:07: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:36:25: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [41688496]
+    ContinuaNavegacao: [41689048]
+
+25/10/2016 - 16:36:27: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:36:32: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [41688496]
+    ContinuaNavegacao: [41689176]
+
+25/10/2016 - 16:36:32: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:36:34: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [41688496]
+    ContinuaNavegacao: [41689304]
+
+25/10/2016 - 16:36:34: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:36:35: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [41688496]
+    ContinuaNavegacao: [41689432]
+
+25/10/2016 - 16:36:36: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:36:38: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [4]
+    TamMaxBuffer: [41688496]
+    ContinuaNavegacao: [41689560]
+
+25/10/2016 - 16:36:38: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:36:45: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [41688496]
+    ContinuaNavegacao: [41689720]
+
+25/10/2016 - 16:36:45: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [004]
+    Retorno: [10000]
+
+25/10/2016 - 16:37:35: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:37:36: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:37:36: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:37:36: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:37:38: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [61619456]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [61619632]
+    ContinuaNavegacao: [61620056]
+
+25/10/2016 - 16:37:38: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:37:39: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61619632]
+    ContinuaNavegacao: [61620184]
+
+25/10/2016 - 16:37:41: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:37:43: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61619632]
+    ContinuaNavegacao: [61620312]
+
+25/10/2016 - 16:37:43: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:37:44: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61619632]
+    ContinuaNavegacao: [61620440]
+
+25/10/2016 - 16:37:45: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:37:46: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61619632]
+    ContinuaNavegacao: [61620568]
+
+25/10/2016 - 16:37:46: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:37:48: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [4]
+    TamMaxBuffer: [61619632]
+    ContinuaNavegacao: [61620696]
+
+25/10/2016 - 16:37:48: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:37:53: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61619632]
+    ContinuaNavegacao: [61620856]
+
+25/10/2016 - 16:37:53: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [004]
+    Retorno: [10000]
+
+25/10/2016 - 16:38:23: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:38:23: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:38:23: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:38:23: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:38:25: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [49953744]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49954344]
+
+25/10/2016 - 16:38:25: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:38:27: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49954472]
+
+25/10/2016 - 16:38:28: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:38:29: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49954600]
+
+25/10/2016 - 16:38:29: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:38:31: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49954728]
+
+25/10/2016 - 16:38:31: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:38:34: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49954856]
+
+25/10/2016 - 16:38:34: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:38:36: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [4]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49954984]
+
+25/10/2016 - 16:38:36: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:38:38: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49955144]
+
+25/10/2016 - 16:38:38: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [004]
+    Retorno: [10000]
+
+25/10/2016 - 16:38:42: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49955304]
+
+25/10/2016 - 16:38:42: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Tim]
+    Retorno: [10000]
+
+25/10/2016 - 16:38:49: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49955464]
+
+25/10/2016 - 16:38:49: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:39:00: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49955592]
+
+25/10/2016 - 16:39:00: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Redigite o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:39:13: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49955720]
+
+25/10/2016 - 16:39:13: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...]
+    Retorno: [10000]
+
+25/10/2016 - 16:39:24: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49955848]
+
+25/10/2016 - 16:39:24: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...(35)]
+    Retorno: [10000]
+
+25/10/2016 - 16:39:27: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49955976]
+
+25/10/2016 - 16:39:28: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [598]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [MENSAGEM DE TESTE]
+    Retorno: [10000]
+
+25/10/2016 - 16:39:30: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [598]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49956152]
+
+25/10/2016 - 16:39:30: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Homologacao CliSiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:39:32: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Homologacao CliSiTef]
+    TamMaxBuffer: [49953920]
+    ContinuaNavegacao: [49956280]
+
+25/10/2016 - 16:39:32: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Homologacao CliSiTef]
+    Retorno: [-100]
+
+25/10/2016 - 16:42:32: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:42:33: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:42:33: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:42:33: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:42:35: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [61885712]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61886312]
+
+25/10/2016 - 16:42:35: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:42:38: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61886440]
+
+25/10/2016 - 16:42:39: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:42:42: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61886568]
+
+25/10/2016 - 16:42:42: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:42:44: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61886696]
+
+25/10/2016 - 16:42:44: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:42:46: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61886824]
+
+25/10/2016 - 16:42:46: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:43:18: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [4]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61886952]
+
+25/10/2016 - 16:43:18: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:43:20: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61887112]
+
+25/10/2016 - 16:43:20: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [004]
+    Retorno: [10000]
+
+25/10/2016 - 16:43:24: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61887272]
+
+25/10/2016 - 16:43:24: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Tim]
+    Retorno: [10000]
+
+25/10/2016 - 16:43:26: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [61885888]
+    ContinuaNavegacao: [61887432]
+
+25/10/2016 - 16:43:26: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:45:52: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:45:53: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:45:53: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:45:53: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:45:55: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [34594064]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34594664]
+
+25/10/2016 - 16:45:55: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:45:57: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34594792]
+
+25/10/2016 - 16:45:59: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:46:00: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34594920]
+
+25/10/2016 - 16:46:00: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:46:01: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34595048]
+
+25/10/2016 - 16:46:02: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:46:03: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34595176]
+
+25/10/2016 - 16:46:03: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:46:08: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [4]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34595304]
+
+25/10/2016 - 16:46:08: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:46:09: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34595464]
+
+25/10/2016 - 16:46:09: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [004]
+    Retorno: [10000]
+
+25/10/2016 - 16:46:11: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34595624]
+
+25/10/2016 - 16:46:11: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Tim]
+    Retorno: [10000]
+
+25/10/2016 - 16:46:13: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [34594264]
+    ContinuaNavegacao: [34595784]
+
+25/10/2016 - 16:46:13: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:47:44: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:47:44: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:47:44: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:47:44: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:47:47: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [40733952]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [40734152]
+    ContinuaNavegacao: [40734552]
+
+25/10/2016 - 16:47:47: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:47:48: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [40734152]
+    ContinuaNavegacao: [40734680]
+
+25/10/2016 - 16:47:50: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:47:59: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [40734152]
+    ContinuaNavegacao: [40734808]
+
+25/10/2016 - 16:47:59: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:48:01: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [40734152]
+    ContinuaNavegacao: [40734936]
+
+25/10/2016 - 16:48:01: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:48:10: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [40734152]
+    ContinuaNavegacao: [40735064]
+
+25/10/2016 - 16:48:10: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:48:55: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:48:56: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:48:56: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:48:56: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:48:58: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [58301696]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [58301896]
+    ContinuaNavegacao: [58302296]
+
+25/10/2016 - 16:48:58: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:48:59: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [58301896]
+    ContinuaNavegacao: [58302424]
+
+25/10/2016 - 16:49:01: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:49:06: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [58301896]
+    ContinuaNavegacao: [58302552]
+
+25/10/2016 - 16:49:06: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:49:07: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [58301896]
+    ContinuaNavegacao: [58302680]
+
+25/10/2016 - 16:49:07: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:49:09: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [58301896]
+    ContinuaNavegacao: [58302808]
+
+25/10/2016 - 16:49:09: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:49:54: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:49:55: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:49:55: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:49:55: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:49:56: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [57888208]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57888808]
+
+25/10/2016 - 16:49:56: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:49:57: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57888936]
+
+25/10/2016 - 16:49:59: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:50:00: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57889064]
+
+25/10/2016 - 16:50:00: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:01: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57889192]
+
+25/10/2016 - 16:50:01: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:03: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57889320]
+
+25/10/2016 - 16:50:03: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:07: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57889504]
+
+25/10/2016 - 16:50:07: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:50:09: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57889664]
+
+25/10/2016 - 16:50:09: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [001]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:12: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57889824]
+
+25/10/2016 - 16:50:12: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Vivo]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:16: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57889984]
+
+25/10/2016 - 16:50:16: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:21: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57890112]
+
+25/10/2016 - 16:50:21: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Redigite o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:23: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57890240]
+
+25/10/2016 - 16:50:23: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:24: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57890368]
+
+25/10/2016 - 16:50:24: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...(35)]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:26: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57890496]
+
+25/10/2016 - 16:50:26: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Selecione o valor]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:31: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57890624]
+
+25/10/2016 - 16:50:31: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:R$ 3,00;2:R$ 6,00;3:R$ 12,00;4:R$ 17,00;5:R$ 22,00;6:R$ 27,00;7:R$ 35,00;8:R$ 60,00;9:R$ 100,00;10:R$ 200,00;11:R$ 300,00;]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:36: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:R$ 3,00;2:R$ 6,00;3:R$ 12,00;4:R$ 17,00;5:R$ 22,00;6:R$ 27,00;7:R$ 35,00;8:R$ 60,00;9:R$ 100,00;10:R$ 200,00;11:R$ 300,00;]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57890904]
+
+25/10/2016 - 16:50:36: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:50:40: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57891064]
+
+25/10/2016 - 16:50:40: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [591]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [300]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:41: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [591]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57891224]
+
+25/10/2016 - 16:50:41: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Solicite confirmacao do cliente no PinPad]
+    Retorno: [10000]
+
+25/10/2016 - 16:50:50: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [57888408]
+    ContinuaNavegacao: [57891352]
+
+25/10/2016 - 16:50:50: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [23]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:51:31: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:51:32: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:51:32: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:51:32: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:51:34: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [37874944]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37875544]
+
+25/10/2016 - 16:51:34: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:51:35: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37875672]
+
+25/10/2016 - 16:51:37: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:51:38: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37875800]
+
+25/10/2016 - 16:51:38: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:51:40: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37875928]
+
+25/10/2016 - 16:51:40: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:51:41: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37876056]
+
+25/10/2016 - 16:51:41: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:51:47: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [4]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37876240]
+
+25/10/2016 - 16:51:47: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:51:49: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37876400]
+
+25/10/2016 - 16:51:49: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [004]
+    Retorno: [10000]
+
+25/10/2016 - 16:51:50: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37876560]
+
+25/10/2016 - 16:51:50: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Tim]
+    Retorno: [10000]
+
+25/10/2016 - 16:51:52: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37876720]
+
+25/10/2016 - 16:51:52: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:51:57: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37876848]
+
+25/10/2016 - 16:51:57: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Redigite o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:51:59: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37876976]
+
+25/10/2016 - 16:51:59: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:01: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37877104]
+
+25/10/2016 - 16:52:01: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...(35)]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:02: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37877232]
+
+25/10/2016 - 16:52:03: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [598]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [MENSAGEM DE TESTE]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:04: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [598]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37877408]
+
+25/10/2016 - 16:52:04: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Homologacao CliSiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:06: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Homologacao CliSiTef]
+    TamMaxBuffer: [37875144]
+    ContinuaNavegacao: [37877536]
+
+25/10/2016 - 16:52:06: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Homologacao CliSiTef]
+    Retorno: [-100]
+
+25/10/2016 - 16:52:28: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:52:29: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:52:29: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:52:29: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:52:30: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [45148528]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45149128]
+
+25/10/2016 - 16:52:30: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:31: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45149256]
+
+25/10/2016 - 16:52:33: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:52:34: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45149384]
+
+25/10/2016 - 16:52:34: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:36: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45149512]
+
+25/10/2016 - 16:52:36: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:38: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45149640]
+
+25/10/2016 - 16:52:38: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:39: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45149824]
+
+25/10/2016 - 16:52:39: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:52:41: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45149984]
+
+25/10/2016 - 16:52:41: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:44: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45150112]
+
+25/10/2016 - 16:52:44: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:46: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45150296]
+
+25/10/2016 - 16:52:46: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:52:48: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45150456]
+
+25/10/2016 - 16:52:48: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:52:50: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45150584]
+
+25/10/2016 - 16:52:50: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:04: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45150768]
+
+25/10/2016 - 16:53:04: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:53:06: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45150928]
+
+25/10/2016 - 16:53:06: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:08: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45151056]
+
+25/10/2016 - 16:53:08: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:10: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [0]
+    TamMaxBuffer: [45148728]
+    ContinuaNavegacao: [45151240]
+
+25/10/2016 - 16:53:10: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:53:27: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:53:27: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:53:27: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:53:27: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:53:28: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [42382320]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42382920]
+
+25/10/2016 - 16:53:28: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:30: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42383048]
+
+25/10/2016 - 16:53:31: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:53:33: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42383176]
+
+25/10/2016 - 16:53:33: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:35: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42383304]
+
+25/10/2016 - 16:53:35: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:37: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42383432]
+
+25/10/2016 - 16:53:37: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:39: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42383616]
+
+25/10/2016 - 16:53:39: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:53:40: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42383776]
+
+25/10/2016 - 16:53:40: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [001]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:42: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42383936]
+
+25/10/2016 - 16:53:42: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Vivo]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:44: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42384096]
+
+25/10/2016 - 16:53:44: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:45: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42384224]
+
+25/10/2016 - 16:53:45: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Redigite o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:47: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42384352]
+
+25/10/2016 - 16:53:47: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:48: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42384480]
+
+25/10/2016 - 16:53:48: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...(35)]
+    Retorno: [10000]
+
+25/10/2016 - 16:53:50: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42384608]
+
+25/10/2016 - 16:53:50: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Selecione o valor]
+    Retorno: [10000]
+
+25/10/2016 - 16:54:18: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42384736]
+
+25/10/2016 - 16:54:18: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:R$ 3,00;2:R$ 6,00;3:R$ 12,00;4:R$ 17,00;5:R$ 22,00;6:R$ 27,00;7:R$ 35,00;8:R$ 60,00;9:R$ 100,00;10:R$ 200,00;11:R$ 300,00;]
+    Retorno: [10000]
+
+25/10/2016 - 16:54:47: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42385016]
+
+25/10/2016 - 16:54:47: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:54:50: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42385176]
+
+25/10/2016 - 16:54:50: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [591]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [300]
+    Retorno: [10000]
+
+25/10/2016 - 16:54:52: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [591]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42385336]
+
+25/10/2016 - 16:54:52: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Solicite confirmacao do cliente no PinPad]
+    Retorno: [10000]
+
+25/10/2016 - 16:54:55: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42385464]
+
+25/10/2016 - 16:54:56: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [23]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:54:57: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [23]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42385592]
+
+25/10/2016 - 16:54:58: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:55:01: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42385720]
+
+25/10/2016 - 16:55:01: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [1]
+    Buffer: [Cancelado cliente]
+    Retorno: [10000]
+
+25/10/2016 - 16:55:07: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [1]
+    Buffer: [Cancelado cliente]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42385848]
+
+25/10/2016 - 16:55:07: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:55:12: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42385976]
+
+25/10/2016 - 16:55:12: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:55:13: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42386104]
+
+25/10/2016 - 16:55:13: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Redigite o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:55:15: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42386232]
+
+25/10/2016 - 16:55:15: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...]
+    Retorno: [10000]
+
+25/10/2016 - 16:55:16: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42386360]
+
+25/10/2016 - 16:55:16: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...(35)]
+    Retorno: [10000]
+
+25/10/2016 - 16:55:18: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42386488]
+
+25/10/2016 - 16:55:18: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Selecione o valor]
+    Retorno: [10000]
+
+25/10/2016 - 16:55:23: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [42382520]
+    ContinuaNavegacao: [42386616]
+
+25/10/2016 - 16:55:23: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:R$ 3,00;2:R$ 6,00;3:R$ 12,00;4:R$ 17,00;5:R$ 22,00;6:R$ 27,00;7:R$ 35,00;8:R$ 60,00;9:R$ 100,00;10:R$ 200,00;11:R$ 300,00;]
+    Retorno: [10000]
+
+25/10/2016 - 16:56:59: ConfiguraIntSiTefInterativo - Entrada
+    EnderecoIP: [10.16.39.80]
+    CodigoLoja: [00000000]
+    NumeroTerminal: [IP000001]
+    ConfiguraResultado: [0]
+
+25/10/2016 - 16:56:59: ConfiguraIntSiTefInterativo - Saida
+    Retorno: [0]
+
+25/10/2016 - 16:56:59: IniciaFuncaoSiTefInterativo - Entrada
+    Modalidade: [300]
+    Valor: [300]
+    NumeroCuponFiscal: [(null)]
+    DataFiscal: [20161019]
+    Horario: [(null)]
+    Operador: [(null)]
+    Restricoes: []
+
+25/10/2016 - 16:56:59: IniciaFuncaoSiTefInterativo - Saida
+    Retorno: [10000]
+
+25/10/2016 - 16:57:01: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [56425744]
+    TipoCampo: [0]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [000000000000000000]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56426344]
+
+25/10/2016 - 16:57:01: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Conectando SiTef]
+    Retorno: [10000]
+
+25/10/2016 - 16:57:02: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56426472]
+
+25/10/2016 - 16:57:03: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:57:05: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56426600]
+
+25/10/2016 - 16:57:05: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [SiTef Conectado]
+    Retorno: [10000]
+
+25/10/2016 - 16:57:06: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56426728]
+
+25/10/2016 - 16:57:06: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Concessionaria]
+    Retorno: [10000]
+
+25/10/2016 - 16:57:08: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56426856]
+
+25/10/2016 - 16:57:08: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:Vivo;2:Claro;3:Oi;4:Tim;]
+    Retorno: [10000]
+
+25/10/2016 - 16:57:11: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56427040]
+
+25/10/2016 - 16:57:11: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 16:57:13: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56427200]
+
+25/10/2016 - 16:57:13: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [001]
+    Retorno: [10000]
+
+25/10/2016 - 16:57:14: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [589]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56427360]
+
+25/10/2016 - 16:57:14: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Vivo]
+    Retorno: [10000]
+
+25/10/2016 - 16:57:16: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [590]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56427520]
+
+25/10/2016 - 16:57:16: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 16:57:18: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56427648]
+
+25/10/2016 - 16:57:18: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Redigite o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 17:11:01: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56427776]
+
+25/10/2016 - 17:11:01: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...]
+    Retorno: [10000]
+
+25/10/2016 - 17:11:03: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56427904]
+
+25/10/2016 - 17:11:03: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...(35)]
+    Retorno: [10000]
+
+25/10/2016 - 17:11:05: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56428032]
+
+25/10/2016 - 17:11:05: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Selecione o valor]
+    Retorno: [10000]
+
+25/10/2016 - 17:11:06: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56428160]
+
+25/10/2016 - 17:11:06: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:R$ 3,00;2:R$ 6,00;3:R$ 12,00;4:R$ 17,00;5:R$ 22,00;6:R$ 27,00;7:R$ 35,00;8:R$ 60,00;9:R$ 100,00;10:R$ 200,00;11:R$ 300,00;]
+    Retorno: [10000]
+
+25/10/2016 - 17:11:13: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56428440]
+
+25/10/2016 - 17:11:13: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 17:11:17: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56428600]
+
+25/10/2016 - 17:11:17: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [591]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [300]
+    Retorno: [10000]
+
+25/10/2016 - 17:11:20: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [591]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56428760]
+
+25/10/2016 - 17:11:20: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Solicite confirmacao do cliente no PinPad]
+    Retorno: [10000]
+
+25/10/2016 - 17:11:34: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56428888]
+
+25/10/2016 - 17:11:35: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [23]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 17:11:48: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [23]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56429016]
+
+25/10/2016 - 17:11:48: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 17:11:51: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56429144]
+
+25/10/2016 - 17:11:51: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [1]
+    Buffer: [Cancelado cliente]
+    Retorno: [10000]
+
+25/10/2016 - 17:12:06: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [22]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [1]
+    Buffer: [Cancelado cliente]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56429272]
+
+25/10/2016 - 17:12:06: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 17:12:08: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [13]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56429400]
+
+25/10/2016 - 17:12:08: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Forneca o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 17:12:11: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56429528]
+
+25/10/2016 - 17:12:11: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [Redigite o numero do DDD (2 digitos) e do Celular]
+    Retorno: [10000]
+
+25/10/2016 - 17:12:23: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [30]
+    TipoCampo: [592]
+    TamanhoMinimo: [10]
+    TamanhoMaximo: [11]
+    Buffer: [11954950529]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56429656]
+
+25/10/2016 - 17:12:23: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...]
+    Retorno: [10000]
+
+25/10/2016 - 17:12:27: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56429784]
+
+25/10/2016 - 17:12:27: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Aguarde, em processamento...(35)]
+    Retorno: [10000]
+
+25/10/2016 - 17:12:31: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [3]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56429912]
+
+25/10/2016 - 17:12:32: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Selecione o valor]
+    Retorno: [10000]
+
+25/10/2016 - 17:12:34: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [4]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56430040]
+
+25/10/2016 - 17:12:34: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1:R$ 3,00;2:R$ 6,00;3:R$ 12,00;4:R$ 17,00;5:R$ 22,00;6:R$ 27,00;7:R$ 35,00;8:R$ 60,00;9:R$ 100,00;10:R$ 200,00;11:R$ 300,00;]
+    Retorno: [10000]
+
+25/10/2016 - 17:12:44: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [21]
+    TipoCampo: [-1]
+    TamanhoMinimo: [1]
+    TamanhoMaximo: [2]
+    Buffer: [1]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56405712]
+
+25/10/2016 - 17:12:45: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: []
+    Retorno: [10000]
+
+25/10/2016 - 17:12:47: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [14]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56405872]
+
+25/10/2016 - 17:12:47: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [0]
+    TipoCampo: [591]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [300]
+    Retorno: [10000]
+
+25/10/2016 - 17:12:59: ContinuaFuncaoSiTefInterativo - Entrada
+    ProximoComando: [0]
+    TipoCampo: [591]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    TamMaxBuffer: [56425944]
+    ContinuaNavegacao: [56406032]
+
+25/10/2016 - 17:12:59: ContinuaFuncaoSiTefInterativo - Saida
+    ProximoComando: [1]
+    TipoCampo: [-1]
+    TamanhoMinimo: [0]
+    TamanhoMaximo: [0]
+    Buffer: [Solicite confirmacao do cliente no PinPad]
+    Retorno: [10000]
+
