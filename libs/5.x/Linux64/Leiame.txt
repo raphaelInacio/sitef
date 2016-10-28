@@ -1,0 +1,13 @@
+1) Exemplo de configuração de porta serial no arquivo CliSiTef.ini (SERIAL 1):
+
+[PinPadCompartilhado]
+Porta=/dev/ttyS0
+
+2) Para utilizar consultas cheques adicionais ou habilitar parâmetros especiais nestas consultas:
+
+	Renomeie arquivo Cheque.txt para Cheque.ini.
+	Habilite as consultas que deseja utilizar
+	Para cada uma das consultas, habilite os parâmetros adicionais que desejar.
+
+   O documento "SiTef - Interface Simplificada com a aplicação - Consulta a Cheques Novo Formato.doc" contem
+   maiores informações sobre este procedimento.
