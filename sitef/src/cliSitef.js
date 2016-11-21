@@ -25,7 +25,7 @@ const cliSitef = new FFI.Library(sitef_5_x, {
     //int IniciaFuncaoSiTefInterativo (Funcao, Valor, CupomFiscal, DataFiscal,HoraFiscal, Operador, ParamAdic)
     'IniciaFuncaoSiTefInterativo': ['int', ["int", "string", "string", "string", "string", "string", "string"]],
     //int ContinuaFuncaoSiTefInterativo (Comando, TipoCampo, TamMinimo, TamMaximo,Buffer, TamBuffer, Continua)
-    'ContinuaFuncaoSiTefInterativo': ['int', ["string", "string", "string", "string", "string", "string", "string"]],
+    'ContinuaFuncaoSiTefInterativo': ['int', ["string", "string", "string", "string", "string", "string", "int"]],
     //void FinalizaFuncaoSiTefInterativo (Confirma, CupomFiscal, DataFiscal,HoraFiscal, ParamAdic);
     'FinalizaFuncaoSiTefInterativo': ['int', ["int", "string", "string", "string", "string"]]
 });
@@ -51,7 +51,7 @@ const sitef = {
         continua: '1',
     },
     iniciafSitefInterativo: {
-        modalidade: 300,
+        modalidade: 301,//300
         valor: '300',
         cupomFiscal: '123456',
         dataFiscal: '20161019',
