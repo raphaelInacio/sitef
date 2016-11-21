@@ -13,5 +13,9 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node sitef.js"
+
+    },
+    "devDependencies": {
+        "ffi": "^2.1.0 "
     }
 }
